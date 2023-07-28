@@ -1,0 +1,14 @@
+#app {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+.ext-title {
+  font-size: 40px;
+}
+
+.footer {
+  margin-top: 50px;
+}

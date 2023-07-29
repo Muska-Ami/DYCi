@@ -29,3 +29,4 @@ coverage
 
 # Lockfile
 pnpm-lock.yaml
+/src-tauri/Cargo.lock

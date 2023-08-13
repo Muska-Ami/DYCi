@@ -1,6 +1,7 @@
 <script setup>
 import { ref } from 'vue'
 import Footer from "@/layouts/Footer.vue"
+import License from "@/layouts/License.vue"
 
 let dialogVisible = ref(false)
 </script>
@@ -39,5 +40,6 @@ let dialogVisible = ref(false)
             </template>
         </el-dialog>
         <Footer />
+        <License />
     </el-main>
 </template>

@@ -1,6 +1,6 @@
 <template>
-  <el-card class="footer">
-    <span>
+  <el-card class="license">
+    <pre>
 MIT License
 
 Copyright (c) 2023 XiaMoHuaHuo_CN
@@ -22,12 +22,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-      </span>
-      <a target="_blank" href="https://github.com/XiaMoHuaHuo-CN/DYCi">
+      </pre>
+      <a target="_blank" href="https://github.com/XiaMoHuaHuo-CN/DYCi/blob/main/LICENSE">
           <el-button class="button">
-              <ion-icon name="git-branch-outline"></ion-icon>
-              <el-text text>XiaMoHuaHuo-CN/DYCi</el-text>
+              <ion-icon name="finger-print-outline"></ion-icon>
+              <el-text text>MIT</el-text>
           </el-button>
       </a>
     </el-card>
 </template>
+
+<style scoped>
+.license pre {
+  overflow-x: auto;
+}
+</style>

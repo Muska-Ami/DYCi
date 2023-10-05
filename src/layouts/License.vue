@@ -3,7 +3,7 @@
     <pre>
 MIT License
 
-Copyright (c) 2023 XiaMoHuaHuo_CN
+Copyright (c) 2023 Muska_Ami
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
       </pre>
-      <a target="_blank" href="https://github.com/XiaMoHuaHuo-CN/DYCi/blob/main/LICENSE">
+      <a target="_blank" href="https://github.com/Muska-Ami/DYCi/blob/main/LICENSE">
           <el-button class="button">
               <ion-icon name="finger-print-outline"></ion-icon>
               <el-text text>MIT</el-text>

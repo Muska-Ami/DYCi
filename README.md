@@ -1,4 +1,8 @@
-# ./
+# Daiyangcheng I Love
+
+呆洋橙嘿嘿...嘿嘿嘿...
+
+本项目供学习交流使用，请注意遵守MIT协议
 
 This template should help get you started developing with Vue 3 in Vite.
 
